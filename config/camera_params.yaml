@@ -1,0 +1,12 @@
+/hik_camera:
+  ros__parameters:
+    camera_frame_id: camera_link
+    camera_name: camera_hik
+    camera_type: GigE
+    # camera_serial: 
+
+    exposure_time: 10
+    gain: 0
+    gamma: 0
+
+    use_sensor_data_qos: false
